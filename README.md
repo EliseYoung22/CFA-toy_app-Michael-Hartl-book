@@ -1,24 +1,5 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This toy app that simulates Twitter was created whilst following the Michael Hartl's book "Ruby on Rails Tutorial". It was very useful in helping to explain the MVC structure and scaffolds. 
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
