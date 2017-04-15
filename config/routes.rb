@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  get 'stactic_pages/home'
+  get 'static_pages/home'
 
-  get 'stactic_pages/help'
+  get 'static_pages/help'
 
   resources :microposts
   resources :users
